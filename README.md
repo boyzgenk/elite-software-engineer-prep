@@ -13,7 +13,7 @@
 
 ## 🏗️ Elite Training Tracks by Career Stage
 
-### ⚡ [Elite Foundation Track](./junior/) - *FAANG L3/L4 Ready*
+### ⚡ [Elite Foundation Track](./01-junior/) - *FAANG L3/L4 Ready*
 **Deep Technical Mastery | Go Runtime & Algorithms Excellence**
 - 🔥 **Go Internals & Runtime Mastery** (5 weeks) - GC, scheduler, memory model
 - 🔥 **Advanced Data Structures & Algorithms** (5 weeks) - LeetCode medium/hard mastery
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 [Elite Mastery Track](./mid-level/) - *FAANG L5/L6 Ready*
+### 🚀 [Elite Mastery Track](./02-mid-level/) - *FAANG L5/L6 Ready*
 **Distributed Systems & Technical Leadership**
 - 🔥 **Advanced System Design** (6 weeks) - Design Twitter, Netflix, Uber scale systems
 - 🔥 **Go Performance & Optimization** (4 weeks) - Profiling, benchmarking, production debugging
@@ -39,7 +39,7 @@
 
 ---
 
-### 🎯 [Elite Leadership Track](./senior/) - *FAANG L6+ Ready*
+### 🎯 [Elite Leadership Track](./03-senior/) - *FAANG L6+ Ready*
 **Architecture & Strategic Technical Leadership**
 - 🔥 **Advanced System Architecture** (8 weeks) - Multi-region, disaster recovery, global scale
 - 🔥 **Advanced Algorithms & Optimization** (5 weeks) - Graph algorithms, DP mastery, complexity analysis
@@ -263,9 +263,9 @@ Result: Quantified outcome (performance improvement, cost savings, user impact)
 ## 📁 Program Structure
 
 ```
-├── junior/          # Elite Foundation Track (FAANG L3/L4)
-├── mid-level/       # Elite Mastery Track (FAANG L5/L6)  
-└── senior/          # Elite Leadership Track (FAANG L6+)
+├── 01-junior/          # Elite Foundation Track (FAANG L3/L4)
+├── 02-mid-level/       # Elite Mastery Track (FAANG L5/L6)  
+└── 03-senior/          # Elite Leadership Track (FAANG L6+)
 ```
 
 Each track contains modules, assessments, study plans, and specialized resources.
@@ -353,13 +353,13 @@ Before starting, honestly evaluate your commitment level:
 
 **Choose your elite track below and start your transformation from average engineer to FAANG-caliber technical leader.**
 
-### 🔥 [START ELITE FOUNDATION TRACK →](./junior/)
+### 🔥 [START ELITE FOUNDATION TRACK →](./01-junior/)
 *Transform into FAANG L3/L4 caliber engineer*
 
-### 🚀 [START ELITE MASTERY TRACK →](./mid-level/)  
+### 🚀 [START ELITE MASTERY TRACK →](./02-mid-level/)  
 *Advance to FAANG L5/L6 technical leadership*
 
-### 🎯 [START ELITE LEADERSHIP TRACK →](./senior/)
+### 🎯 [START ELITE LEADERSHIP TRACK →](./03-senior/)
 *Achieve FAANG L6+ strategic technical excellence*
 
 **The only question is: Are you ready to become elite?** 💪🔥

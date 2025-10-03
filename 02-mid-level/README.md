@@ -228,7 +228,7 @@ Ensure solid foundation from **Junior Engineer** preparation:
 - Clean coding practices and debugging skills
 - Fundamental CS concepts and problem-solving approach
 
-**📁 Previous Level:** `../junior/README.md`
+**📁 Previous Level:** `../01-junior/README.md`
 
 ### Next Level Preparation
 After mastering mid-level skills, consider advancing to **Senior Engineer** preparation:
@@ -236,7 +236,7 @@ After mastering mid-level skills, consider advancing to **Senior Engineer** prep
 - Advanced technical leadership and architecture decisions
 - Staff-level influence and cross-organizational impact
 
-**📁 Next Level:** `../senior/README.md`
+**📁 Next Level:** `../03-senior/README.md`
 
 ---
 
