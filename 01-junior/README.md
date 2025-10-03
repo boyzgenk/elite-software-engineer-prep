@@ -316,7 +316,7 @@ After mastering Elite Foundation Track (FAANG L3/L4 ready), advance to **Elite M
 - **Technical Leadership:** Cross-team collaboration, architecture decisions, mentoring excellence
 - **Strategic Thinking:** Business impact analysis, technical roadmap contribution
 
-**📁 Elite Progression Guide:** `../mid-level/README.md`
+**📁 Elite Progression Guide:** `../02-mid-level/README.md`
 
 ---
 
